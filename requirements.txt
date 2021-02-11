@@ -33,7 +33,7 @@ psutil==5.8.0
 pyarrow==3.0.0
 pythainlp==2.2.6
 PyYAML==5.4.1
-sacremoses==0.0.43
+sacremoses==0.0.35
 sentencepiece==0.1.95
 spacy==3.0.1
 subword_nmt==0.3.7
